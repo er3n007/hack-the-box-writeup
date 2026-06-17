@@ -252,7 +252,7 @@ uid=0(root) gid=0(root) groups=0(root)
 
 ```bash
 root@facts:~# cat /root/root.txt
-cbc30cd83a8eb7845f3f6ac80ca5e055
+c******************************5
 ```
 
 🏁 **Root flag captured.**
